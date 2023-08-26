@@ -29,7 +29,7 @@ Substring Count: Write Python code that takes the given text and a substring as 
 
 Note: You can assume that the input text does not contain any punctuation other than periods.
 
-Feel free to modify the assignment based on the level of your students and any specific requirements you have for the assignment.
+Feel free to add or modify your code beyond the minimum requirements. Explore a few new Python programming concepts!
 
 # Test your program code with the provided text:
 text = "Python is an amazing programming language. It is versatile, easy to learn, and powerful."
@@ -64,9 +64,7 @@ Test each operation thoroughly and print the results for verification.
 
 Note: Pay attention to the difference between 0-based indexing in lists and the indexing/slicing provided in the assignment.
 
-Feel free to modify the assignment based on the level of your students and any specific requirements you have for the assignment.
-
-
+Feel free to add or modify your code beyond the minimum requirements. Explore a few new Python programming concepts!
 
 
 
